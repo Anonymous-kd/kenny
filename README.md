@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **becoming a full stack dev**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **django** 
 
 - 💬 Ask me about **c++ and python**
 
